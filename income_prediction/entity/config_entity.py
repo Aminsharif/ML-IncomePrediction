@@ -1,5 +1,5 @@
 import os
-from fraud_detection.constants import *
+from income_prediction.constants import *
 from dataclasses import dataclass
 from datetime import datetime
 

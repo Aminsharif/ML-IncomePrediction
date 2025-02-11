@@ -1,8 +1,6 @@
 import sys
-
 from income_prediction.exception import ExceptionHandle
 from income_prediction.logger import logging
-
 import os
 from income_prediction.constants import DATABASE_NAME, MONGODB_URL_KEY
 import pymongo
